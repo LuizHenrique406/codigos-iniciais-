@@ -1,2 +1,0 @@
-# Apenas colheita manual
-harvest()
