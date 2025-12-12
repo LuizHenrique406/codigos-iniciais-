@@ -1,4 +1,4 @@
-# agora com o if desbloqueado, pode-se usar condições com os valores boooleanos, true e false.
+# agora com o if desbloqueado, pode-se usar condições utiliznado os valores true e false.
 
 # enquanto while for true
 while True:
