@@ -1,1 +1,1 @@
-# codigos iniciais
+# iniciante na programção
